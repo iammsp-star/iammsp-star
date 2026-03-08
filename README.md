@@ -50,10 +50,10 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=iammsp-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammsp-star&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammsp-star&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammsp-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammsp-star&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
 ***
