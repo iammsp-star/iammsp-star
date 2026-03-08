@@ -1,6 +1,5 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%2Bthere!%2B%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%2Bto%2BMy%2BGitHub%2BPortfolio&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20My%20GitHub%20Portfolio&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <h1 align="center">I'm Manas Puthanpura</h1>
