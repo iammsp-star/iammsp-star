@@ -7,7 +7,7 @@
 <h3 align="center">Becoming 1% better everyday .</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&width=450&lines=Data+Enthusiast;Mostly+I+do+vibe+coding;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&width=450&lines=Mostly+I+do+vibe+coding;Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
